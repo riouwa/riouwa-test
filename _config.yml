@@ -1,0 +1,16 @@
+---
+title: Blog Riouwa
+timezone: Asia/Jakarta
+desc: 
+keywords: 
+disqus:
+  name: nama_disini
+  public_key: public_key_disini
+ga:
+  id: ganalytic_disini
+encoding: utf-8
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
